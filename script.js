@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', main)
 
 async function main(){
 
-    
+
     let jokediv = document.querySelector('#joke');
     //macskafaktdiv.innerHTML="X";
 
